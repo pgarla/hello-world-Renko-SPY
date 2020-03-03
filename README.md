@@ -2,3 +2,5 @@
 Renko Bar Charting For SPY
 #want to download tick data for SPY from its inception to Tday
 # update the data live 24/7
+# Apply Different indicators
+#Employ ML combining all these indicators
